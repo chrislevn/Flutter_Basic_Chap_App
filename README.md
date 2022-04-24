@@ -14,7 +14,7 @@ In collaboration with virginia Tech University, Arizona State University.
 | -------- | -------- | -------- |
 | ![](demo_screenshots/1.png) | ![](demo_screenshots/2.png) | ![](demo_screenshots/3.png) |
 
-Special thanks to freecodecamp for reference. 
+Special thanks to freecodecamp.org for reference. 
 
 
 ## Getting Started
