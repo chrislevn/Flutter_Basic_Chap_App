@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
     }
   }
 
-  /// Get the position of bottom navigation based on the icon tapped
+  /// Get the position [index] of bottom navigation based on the icon tapped
   void _onItemTapped(int index) {
     setState(() {
       _selectedIndex = index;
