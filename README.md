@@ -12,7 +12,7 @@ In collaboration with virginia Tech University, Arizona State University.
 ## How the product looks like
 | Home page | Chat detail page | Other screens (bottom navigation) |
 | -------- | -------- | -------- |
-| ![](https://imgur.com/a/Ic2hNMK) | ![](https://imgur.com/a/Ic2hNMK) | ![](https://imgur.com/a/gOqyFff) |
+| ![](demo_screenshots/1.png) | ![](demo_screenshots/2.png) | ![](demo_screenshots/3.png) |
 
 Special thanks to freecodecamp for reference. 
 
