@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:chatapp_flutter/screens/homePage.dart';
+
+// TODO: Uncomment this
+// import homagePage screen
+import 'package:chatapp_flutter/screens/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,8 +28,13 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
+
+      // TODO: Uncomment this
       debugShowCheckedModeBanner: false,
       home: HomePage(),
+
+      // // TODO: Comment this
+      // home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }
